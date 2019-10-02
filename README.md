@@ -10,6 +10,9 @@ Implements the [gifdec.c](https://github.com/lecram/gifdec) decoder.
 
 This library supports transparency and implements the LVGL canvas, making it extremely flexible and versatile to use.
 
+# Prerequisites
+Back up your PROS code, because if you do this wrong, you *will* lose all of your code. Also make it a point to try to have version control implemented so, that you can recover any lost code or information.
+
 # Installation
 #### 1a. Pre-built template
 To get the template, head over to the [releases](https://github.com/theol0403/gif-pros/releases) page and download `gif-pros@<version>.zip`.
